@@ -8,4 +8,4 @@
 <a href=”https://www.linkedin.com/in/salmanmalik/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
                                                   
- GitHub Followers:  "https://www.github/followers/:ASalman-Malik?label=Follow"
+ GitHub Followers:  https://www.github/followers/:ASalman-Malik?label=Follow
