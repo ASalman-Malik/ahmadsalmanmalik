@@ -1,11 +1,15 @@
 # ahmadsalmanmalik
 
-![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=ASalman-Malik&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASalman-Malik&theme=synthwave “Andres’ Top Languages Card”)
+![Salman’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ASalman-Malik&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 
 
-<a href=”https://www.linkedin.com/in/salmanmalik/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+
+
+<h2 align="left">Connect with me ❤️</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/~salmanmalik/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
+
+</p>
 
 ![Ragav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASalman-Malik&show_icons=true&theme=radical)
 
